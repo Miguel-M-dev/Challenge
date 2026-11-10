@@ -89,7 +89,7 @@ const TUNING = {
      Then ask yourself: did it make your level too easy?
      Assignment: Part 2, Hole 3.                                           */
 
-  MAX_AIR_JUMPS: 0,
+  MAX_AIR_JUMPS: 1, // One extra jump clears the wall; tap for low-ceiling hops.
 
 
   // ----- Other -------------------------------------------------------------
