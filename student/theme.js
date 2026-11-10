@@ -13,19 +13,19 @@
    ========================================================================= */
 
 const THEME = {
-  skyTop:       "#1b2a4a",   // sky at the top of the screen
-  skyBottom:    "#3f5d8a",   // sky at the horizon
-  hillsFar:     "#2c4470",   // the distant hills
-  hillsNear:    "#26395e",   // the closer hills
+  skyTop:       "#090d26",   // sky at the top of the screen
+  skyBottom:    "#3a226b",   // sky at the horizon
+  hillsFar:     "#221b49",   // the distant hills
+  hillsNear:    "#151936",   // the closer hills
 
-  solid:        "#5b4a3a",   // solid blocks
-  solidTop:     "#7fbf5a",   // the grassy top edge of solid blocks
-  ledge:        "#a7865d",   // ledges you can jump through
-  spikes:       "#d9d9e0",   // spikes
+  solid:        "#263453",   // solid blocks
+  solidTop:     "#36f5cc",   // the grassy top edge of solid blocks
+  ledge:        "#b66cff",   // ledges you can jump through
+  spikes:       "#ff668d",   // spikes
 
-  player:       "#f2f2f2",   // the player
-  playerEyes:   "#1b2a4a",   // the player's eyes
+  player:       "#e8ffff",   // the player
+  playerEyes:   "#090d26",   // the player's eyes
 
-  goal:         "#ffd34d",   // the goal flag
+  goal:         "#ffe66d",   // the goal flag
   text:         "#ffffff",   // score and messages
 };
